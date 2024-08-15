@@ -18,7 +18,7 @@ Welcome to **IrisWise** – Welcome to the Iris Species Prediction app! Enter th
 
 ## Demo
 
-Check out the live demo on [IrisWise](https://iriswise.streamlit.app/).
+Check out the live demo on [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://iriswise.streamlit.app/)
 
 ## Preview
 
